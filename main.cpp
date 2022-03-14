@@ -5,10 +5,9 @@
 /// @file main.cpp
 /// @version 1.0
 ///
-/// @author Rachel Watananbe <rkwatanao@hawaii.edu>
+/// @author Rachel Watanabe <rkwatana@hawaii.edu>
 /// @date   08_Mar_2022
 ///////////////////////////////////////////////////////////////////////////////
-#include <iostream>
 #include "Animal.h"
 
 int main() {
